@@ -1,0 +1,6 @@
+{
+  "name": "InventoryHub - Full Stack Integration & Copilot Project",
+  "description": "Plataforma de gestión de inventario empresarial y proyecto de integración Full Stack con Microsoft Copilot, APIs REST optimizadas, gestión JSON y documentación para revisión por pares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
